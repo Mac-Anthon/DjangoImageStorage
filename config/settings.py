@@ -140,6 +140,7 @@ CORS_ALLOW_ALL_ORIGINS = True
 CORS_ALLOWED_ORIGINS = [
     'http://172.20.10.4:8000',  # your frontend IP or mobile client
     'http://localhost:19006',  # expo web preview if needed
+    'https://djangoimagestorage.onrender.com'
 ]
 
 # ALLOWED_HOSTS is already set above
