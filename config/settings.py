@@ -143,6 +143,12 @@ CORS_ALLOWED_ORIGINS = [
     'https://djangoimagestorage.onrender.com'
 ]
 
+
+# Add this to your existing settings.py file
+CSRF_TRUSTED_ORIGINS = [
+    'https://djangoimagestorage.onrender.com',
+]
+
 # ALLOWED_HOSTS is already set above
 
 
