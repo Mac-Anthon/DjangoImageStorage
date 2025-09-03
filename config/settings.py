@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-q&mdbem%)#w)*1cb43vj5w9!%7trb3yh^k4v+hn4gt&_@2759g
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['172.20.10.4', 'localhost', '127.0.0.1', '192.168.160.75']
+ALLOWED_HOSTS = ['djangoimagestorage.onrender.com','172.20.10.4', 'localhost', '127.0.0.1', '192.168.160.75']
 
 
 # Application definition
